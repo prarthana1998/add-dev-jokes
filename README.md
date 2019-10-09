@@ -1,5 +1,11 @@
 # Dev Jokes
 
+Add jokes here via PR ( Pull Requests )
+
+
+Two bytes meet.  The first byte asks, “Are you ill?”
+The second byte replies, “No, just feeling a bit off.”
+=======
 
 Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?”
 “Yeah,” reply the bytes.  “Make us a double.”
@@ -93,7 +99,7 @@ Java and C were telling jokes. It was C's turn, so he writes something on the wa
 ***
 
 In order to understand recursion you must first understand recursion.
-=======
+***
 A programmer joke:
 
 ```!false```

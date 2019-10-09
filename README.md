@@ -1,8 +1,7 @@
 # Dev Jokes
 
 Add jokes here via PR ( Pull Requests )
-
----
+===
 
 Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?” <br>
 “Yeah,” reply the bytes.  “Make us a double.”
@@ -18,6 +17,13 @@ None – It’s a hardware problem
 
 ---
 
+A programmer in a smaller office is having issues working with large data sets and says, <br>
+"Man, I suck at memory allocation, could you give me a couple of pointers?" <br>
+To which a coworker replies, <br>
+"0x402228, 0x402500, 0x401ed9"
+
+---
+
 ## Computer Networks
 1. In high society, TCP is more welcome than UDP. At least it knows a proper handshake.
 2. I would tell some UDP jokes too but I never know if anyone gets them
@@ -27,6 +33,12 @@ None – It’s a hardware problem
 Interviewer: Please, explain deadclocks and we will hire you.
 
 Programmer: Hire me and I will explain.
+
+---
+
+What's the best part about TCP jokes?
+
+I get to keep telling them until you get them.
 
 ---
 
@@ -222,3 +234,28 @@ Because he refused to take classes
 
 ---
 
+=======
+
+Software Developers like to solve problems.<br>
+If there are no problems handily available, they will create their own problems!
+
+A programmer joke :
+
+[“hip”,”hip”] (hip hip array!)
+
+---
+
+In high society, TCP is more welcome than UDP. At least it knows a proper handshake.
+
+---
+A bunch of TCP packets go into a bar, until it’s overcrowded. The next day, half as many go in.
+
+---
+A bunch of TCP packets walk into a bar. The bartender says, “Hang on just a second, I need to close the window.”
+
+---
+When I try to send SYNs to chicks, I don’t get any ACKs. Just FINs and RSTs.
+IP packet with TTL=1 arrives at bar. Bartender: “Sorry, can’t let you leave…and you don’t get any beer either…”
+
+---
+The worst part about token ring jokes is that if someone starts telling one while you are telling yours, all joking stops.

@@ -181,6 +181,13 @@ Becasue they **couldn't find a table**.
 
 ---
 
+A programmer joke :
+
+[“hip”,”hip”] (hip hip array!)
+
+---
+=======
+
 In high society, TCP is more welcome than UDP. At least it knows a proper handshake.
 
 ---------

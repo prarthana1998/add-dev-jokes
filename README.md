@@ -2,10 +2,15 @@
 
 Add jokes here via PR ( Pull Requests )
 
+Interviewer: Please, explain deadclocks and we will hire you.
+
+Programmer: Hire me and I will explain.
+
+***
 
 Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
-=======
+***
 
 Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?”
 “Yeah,” reply the bytes.  “Make us a double.”

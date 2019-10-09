@@ -17,6 +17,13 @@ None – It’s a hardware problem
 
 ---
 
+A programmer in a smaller office is having issues working with large data sets and says, <br>
+"Man, I suck at memory allocation, could you give me a couple of pointers?" <br>
+To which a coworker replies, <br>
+"0x402228, 0x402500, 0x401ed9"
+
+---
+
 ## Computer Networks
 1. In high society, TCP is more welcome than UDP. At least it knows a proper handshake.
 2. I would tell some UDP jokes too but I never know if anyone gets them

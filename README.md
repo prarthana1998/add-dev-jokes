@@ -180,3 +180,8 @@ they walked out
 Becasue they **couldn't find a table**.
 
 ---
+A programmer joke :
+
+[“hip”,”hip”] (hip hip array!)
+
+---

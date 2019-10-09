@@ -29,6 +29,12 @@ Programmer: Hire me and I will explain.
 
 ---
 
+What's the best part about TCP jokes?
+
+I get to keep telling them until you get them.
+
+---
+
 Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
 ***

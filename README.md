@@ -2,9 +2,6 @@
 
 Add jokes here via PR ( Pull Requests )
 
-
-Russian Roulette for Devs: `[ $[ $RANDOM % 6 ] == 0 ] && rm -rf /* || echo *Click*`
-
 ---
 
 Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?” <br>

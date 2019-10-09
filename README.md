@@ -234,11 +234,9 @@ Because he refused to take classes
 
 ---
 
-=======
-
 Software Developers like to solve problems.<br>
 If there are no problems handily available, they will create their own problems!
-
+---
 A programmer joke :
 
 [“hip”,”hip”] (hip hip array!)

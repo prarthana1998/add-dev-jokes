@@ -180,8 +180,25 @@ they walked out
 Becasue they **couldn't find a table**.
 
 ---
+
 A programmer joke :
 
 [“hip”,”hip”] (hip hip array!)
 
 ---
+=======
+
+In high society, TCP is more welcome than UDP. At least it knows a proper handshake.
+
+---------
+A bunch of TCP packets go into a bar, until it’s overcrowded. The next day, half as many go in.
+
+------------
+A bunch of TCP packets walk into a bar. The bartender says, “Hang on just a second, I need to close the window.”
+
+--------------
+When I try to send SYNs to chicks, I don’t get any ACKs. Just FINs and RSTs.
+IP packet with TTL=1 arrives at bar. Bartender: “Sorry, can’t let you leave…and you don’t get any beer either…”
+
+---------------
+The worst part about token ring jokes is that if someone starts telling one while you are telling yours, all joking stops.

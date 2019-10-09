@@ -1,19 +1,34 @@
 # Dev Jokes
 
 Add jokes here via PR ( Pull Requests )
-***
+
+---
+
+Eight bytes walk into a bar.  The bartender asks, “Can I get you anything?” <br>
+“Yeah,” reply the bytes.  “Make us a double.”
+
+---
+Q. How did the programmer die in the shower?<br>
+A. He read the shampoo bottle instructions: Lather. Rinse. Repeat.
+
+---
+
+How many programmers does it take to change a light bulb?<br>
+None – It’s a hardware problem
+
+---
 
 ## Computer Networks
 1. In high society, TCP is more welcome than UDP. At least it knows a proper handshake.
 2. I would tell some UDP jokes too but I never know if anyone gets them
 3. The great thing about TCP jokes is that you always get them.
 4. I had a funny UDP joke to tell, but I lost it somewhere...
-***
+---
 Interviewer: Please, explain deadclocks and we will hire you.
 
 Programmer: Hire me and I will explain.
 
-***
+---
 
 Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
@@ -166,4 +181,3 @@ they walked out
 Becasue they **couldn't find a table**.
 
 ---
-

@@ -180,3 +180,6 @@ they walked out
 Becasue they **couldn't find a table**.
 
 ---
+
+Software Developers like to solve problems.<br>
+If there are no problems handily available, they will create their own problems!

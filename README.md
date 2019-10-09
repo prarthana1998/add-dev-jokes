@@ -194,10 +194,51 @@ Becasue they **couldn't find a table**.
 
 ---
 
+Hey guys I figured out how to time travel:
+
+import time
+time.sleep(-1)|
+
+---
+
+Person: Answering a million questions on StackOverflow
+
+Me: Realizing I cannot answer anything so I get points by editing typos out of answers :)
+
+---
+
+Why C gets all the chicks and Java doesn't? Because C doesn't treat them like objects.
+
+---
+
+Why didn't the Go program perform well?
+
+Because it was too tired during run time.
+
+---
+Person: Excuse me where's Room 404
+
+Le me: I'm sorry. I'm pretty sure there's some error with that.
+
+---
+
+Nobody:
+
+Programers when their code doesn't work: "CTRL-S!"
+
+---
+
+Why did the functional programming developer get kicked out of school?
+
+Because he refused to take classes
+
+---
+
+=======
 
 Software Developers like to solve problems.<br>
 If there are no problems handily available, they will create their own problems!
-=======
+
 A programmer joke :
 
 [“hip”,”hip”] (hip hip array!)

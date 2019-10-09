@@ -1,6 +1,5 @@
 # Dev Jokes
 
-
 Some people, when confronted with a problem, think, 'I know, I'll use threads' - and then two they hav erpoblesms.
 
 ***
@@ -38,3 +37,59 @@ Java and C were telling jokes. It was C's turn, so he writes something on the wa
 ***
 
 In order to understand recursion you must first understand recursion.
+=======
+A programmer joke:
+
+```!false```
+
+It is funny because it is true!
+
+---
+
+Q. Why did the programmer quit his job?
+
+A. Because he didn't get arrays.
+
+---
+
+Q. 0 is false 1 is true, right?
+
+A. 1
+
+---
+
+Q. What is a programmer's favorite spot?
+
+A. Foo Bar
+
+---
+
+Q. Why do Java programmers have to wear glasses?
+
+A. Because they don't c#
+
+---
+
+99 bugs in the code,
+
+99 bugs in the code,
+
+Take one down, fix it,
+
+108 bug in the code.
+
+---
+A SQL query walks into a bar, walks up to to tables and asks...
+
+>"Can I join you?"
+
+---
+3 Database SQL walked into a NoSQL bar.
+
+A little while later....
+they walked out 
+
+Becasue they **couldn't find a table**.
+
+---
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg94Tjh7hly0_qYYBpW3Z_sTCzXoaR3Xk6R6WgGl5fY6mVCE0c)

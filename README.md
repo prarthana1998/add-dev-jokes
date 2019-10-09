@@ -17,9 +17,9 @@ None – It’s a hardware problem
 
 ---
 
-A programmer in a smaller office is having issues working with large data sets and says,
-"Man, I suck at memory allocation, could you give me a couple of pointers?"
-To which a coworker replies,
+A programmer in a smaller office is having issues working with large data sets and says, <br>
+"Man, I suck at memory allocation, could you give me a couple of pointers?" <br>
+To which a coworker replies, <br>
 "0x402228, 0x402500, 0x401ed9"
 
 ---

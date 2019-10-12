@@ -262,3 +262,4 @@ The worst part about token ring jokes is that if someone starts telling one whil
 "What's the object-oriented way to become wealthy?Inheritance.
 
 ---
+Documentation is like sex. When it's good, its really good. When it's bad, it's better than nothing.

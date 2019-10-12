@@ -259,4 +259,7 @@ IP packet with TTL=1 arrives at bar. Bartender: “Sorry, can’t let you leave�
 The worst part about token ring jokes is that if someone starts telling one while you are telling yours, all joking stops.
 
 ---
+"What's the object-oriented way to become wealthy?Inheritance.
+
+---
 Documentation is like sex. When it's good, its really good. When it's bad, it's better than nothing.

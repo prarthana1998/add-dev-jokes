@@ -263,3 +263,11 @@ The worst part about token ring jokes is that if someone starts telling one whil
 
 ---
 Documentation is like sex. When it's good, its really good. When it's bad, it's better than nothing.
+---
+
+Doctor: "I'm sorry but you suffer from a terminal illness and have only 10 to live."
+
+Patient: "What do you mean, 10? 10 what? Months? Weeks?!"
+
+Doctor: "Nine."
+---

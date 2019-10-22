@@ -271,3 +271,6 @@ Patient: "What do you mean, 10? 10 what? Months? Weeks?!"
 
 Doctor: "Nine."
 ---
+
+A user interface is like a joke. If you have to explain it, its not that good.
+---

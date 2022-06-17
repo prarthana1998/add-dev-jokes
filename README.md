@@ -85,6 +85,10 @@ Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work
 
 ***
 
+As a javascript dev i love it when my wife [...herlegs]
+
+***
+
 Programming is like sex:
 One mistake and you have to support it for the rest of your life.
 
